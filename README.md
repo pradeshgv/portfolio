@@ -9,7 +9,6 @@ Welcome to my portfolio! This project showcases my skills and projects using Rea
 -   [Technologies Used](#technologies-used)
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [License](#license)
 
 ## Demo
 
@@ -65,10 +64,6 @@ To run this project locally, follow these steps:
 
 4. **Customize the styling** using Tailwind CSS classes in the `styles` directory.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-Feel free to fork this repository and use it to create your own portfolio. If you have any questions or suggestions, please [open an issue](https://github.com/pradeshgv/portfolio/issues).
+Feel free to fork this repository and use it to create your own portfolio. If you have any questions or suggestions, please [open an issue](https://github.com/your-username/your-portfolio/issues).
