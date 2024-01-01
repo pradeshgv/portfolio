@@ -71,4 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to fork this repository and use it to create your own portfolio. If you have any questions or suggestions, please [open an issue](https://github.com/your-username/your-portfolio/issues).
+Feel free to fork this repository and use it to create your own portfolio. If you have any questions or suggestions, please [open an issue](https://github.com/pradeshgv/portfolio/issues).
