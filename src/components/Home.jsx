@@ -36,7 +36,7 @@ const Home = () => {
                 <div className="hero_image py-4 md:py-0">
                     <img
                         src={HeroImage}
-                        alt="Profile Image"
+                        alt="Profile DP"
                         className="rounded-2xl mx-auto w-2/3  md:w-full"
                     />
                 </div>
