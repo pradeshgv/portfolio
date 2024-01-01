@@ -2,8 +2,10 @@ import React from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { useState } from "react";
 import { Link } from "react-scroll";
+
 const Navbar = () => {
     const [navbarOpen, setNavbarOpen] = useState(false);
+
     const links = [
         {
             id: 1,
@@ -41,6 +43,9 @@ const Navbar = () => {
                                 smooth={true}
                                 duration={500}
                                 className="cursor-pointer hover:scale-105 duration-500 ease-in-out"
+                                onClick={() => {
+                                    setNavbarOpen(false);
+                                }}
                             >
                                 {link.name}
                             </Link>
@@ -69,6 +74,9 @@ const Navbar = () => {
                                     duration={500}
                                     offset={-80}
                                     className="cursor-pointer hover:scale-105 duration-500 ease-in-out"
+                                    onClick={() => {
+                                        setNavbarOpen(!navbarOpen);
+                                    }}
                                 >
                                     {link.name}
                                 </Link>
